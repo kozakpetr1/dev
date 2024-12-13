@@ -1,9 +1,9 @@
-### Zadání úlohy: Využití protokolu MQTT v IoT
+### Zadání: Využití protokolu MQTT v IoT
 
-#### Cíl úlohy:
+#### Cíl úlohy
 Vytvořit příručku, která se zaměří na protokol MQTT a jeho využití v oblasti Internetu věcí (IoT). Příručka bude obsahovat ukázkové kódy a vysvětlení základních funkcí protokolu MQTT v libovolném programovacím jazyce, přičemž doporučeným jazykem je Python. Žáci mohou zvolit jiný jazyk podle vlastního výběru.
 
-#### Požadavky na úlohu:
+#### Požadavky na úlohu
 1. **Vytvoření příručky:**
    - Příručka bude vytvořena v Obsidian Vault nebo jako Python Notebook.
    - Obsah příručky bude zahrnovat:
@@ -22,7 +22,7 @@ Vytvořit příručku, která se zaměří na protokol MQTT a jeho využití v o
 3. **Zdroje:**
    - Příručka by měla obsahovat odkazy na další relevantní materiály a dokumentaci, např. oficiální MQTT specifikaci, dokumentaci k používaným knihovnám a další výukové materiály.
 
-#### Doporučené kroky:
+#### Doporučené kroky
 1. Seznámit se s protokolem MQTT (např. prostřednictvím článků a oficiálních dokumentací).
 2. Vybrat si vhodný jazyk pro implementaci (doporučený Python).
 3. Vytvořit příklady pro odesílání a přijímání zpráv pomocí MQTT.
@@ -32,7 +32,7 @@ Vytvořit příručku, která se zaměří na protokol MQTT a jeho využití v o
 1. Vytvořte projekt obsahující zdrojový kód programu.
 2. Odevzdejte odkaz na svůj projekt v repu na GitHubu.
 
-#### Hodnocení:
+#### Hodnocení
 - Kvalita dokumentace a srozumitelnost vysvětlení.
 - Funkčnost ukázkových kódů a jejich správnost.
 - Zahrnutí relevantních a správně uvedených zdrojů a odkazů na další studijní materiály.
